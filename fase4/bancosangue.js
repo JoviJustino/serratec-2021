@@ -1,1 +1,0 @@
-console.log("== banco de sangue ==")
